@@ -8,9 +8,9 @@ To analyze the current status, who is getting executed, which states have the hi
 
 ## Data
 
-Open source data available [here] (https://deathpenaltyinfo.org/executions/execution-database)
+Open source data available [here](https://deathpenaltyinfo.org/executions/execution-database)
 
-View Tableau visualizations [here] (https://public.tableau.com/app/profile/jodi.kim/viz/DeathPenalty_16769242854990/DeathPenaltyUSA)
+View Tableau visualizations [here](https://public.tableau.com/app/profile/jodi.kim/viz/DeathPenalty_16769242854990/DeathPenaltyUSA)
 
 ## Tools
 
